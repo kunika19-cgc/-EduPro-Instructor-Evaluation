@@ -1,3 +1,4 @@
 # -EduPro-Instructor-Evaluation
 Instructor and Course Quality Evaluation Dashboard for EduPro
-deployed address- https://ai-transport-maintenance.onrender.com
+deployed address- 
+https://kkcyonuvwbnsw74xg4xhsa.streamlit.app/
